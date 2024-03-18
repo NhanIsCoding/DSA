@@ -1,0 +1,15 @@
+Cho người dùng nhập số lượng phần tử n, và giá trị từng phần tử số nguyên
+Lập một danh sách liên kết đơn từ những phần tử đó, và sắp xếp tăng dần cho chúng bằng thuật toán Merge Sort
+Ví dụ:
+Input number of elements: 5
+Please input the elements:
+1
+7
+5
+4
+3
+1->7->5->4->3->->NULL
+After sorting the list:
+1->3->4->5->7->->NULL
+
+//Nguon tham khao: https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/

@@ -1,0 +1,77 @@
+Tạo một B-Tree Order 4, người dùng có thể thêm, tìm kiếm và xem cây.
+Ví dụ:
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 1
+Enter the integer to be inserted: 1
+Element inserted successfully
+
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 1
+Enter the integer to be inserted: 3
+Element inserted successfully
+
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 1
+Enter the integer to be inserted: 2
+Element inserted successfully
+
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 1
+Enter the integer to be inserted: 4
+Element inserted successfully
+
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 3
+
+
+Level --> 0
+1 2 3 4
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 2
+Enter the integer to be found: 3
+Element exists in B-tree
+
+
+Main Menu
+-------------
+1.Insert an element
+2.Search for an element
+3.Display the Tree
+4.Exit
+Enter Choice : 4
+Thank you for using the program, goodbye

@@ -1,0 +1,35 @@
+Tạo một AVL với các chức năng thêm, xóa phần tử, và vẽ trạng thái cây.
+
+Ví dụ cho màn hình console
+1.Insert Node
+2.Delete Node
+3.Print out the tree
+Input the function you want to use (1 to 3): 1
+Input the key value to insert: 3
+Key 3 is inserted to the tree
+Do you want to continue using the functions?
+Input 1 if yes, or input any key if no: 1
+1.Insert Node
+2.Delete Node
+3.Print out the tree
+Input the function you want to use (1 to 3): 1
+Input the key value to insert: 6
+Key 6 is inserted to the tree
+Do you want to continue using the functions?
+Input 1 if yes, or input any key if no: 1
+1.Insert Node
+2.Delete Node
+3.Print out the tree
+Input the function you want to use (1 to 3): 1
+Input the key value to insert: 5
+Key 5 is inserted to the tree
+Do you want to continue using the functions?
+Input 1 if yes, or input any key if no: 1
+1.Insert Node
+2.Delete Node
+3.Print out the tree
+Input the function you want to use (1 to 3): 3
+
+    .--- 6
+--- 5
+    `--- 3

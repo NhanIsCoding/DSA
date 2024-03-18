@@ -1,0 +1,3 @@
+-Tạo một Binary Search Tree bằng hàm insert
+-Tìm Min, Max, Height của cây
+-Kiểm tra xem cây này có cân bằng hay không

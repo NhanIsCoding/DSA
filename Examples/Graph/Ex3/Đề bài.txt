@@ -1,0 +1,55 @@
+Áp dụng bài học về Graph, hãy tạo một menu cho người dùng, cho phép người dùng:
+-Tạo một Graph
+-Duyệt đồ thị ưu tiên chiều rộng (Breadth-first search - BFS),
+//https://en.wikipedia.org/wiki/Breadth-first_search
+-Duyệt đồ thi ưu tiên chiều sâu (Depth-first search - DFS)
+//https://en.wikipedia.org/wiki/Depth-first_search
+(Nhập tọa độ tương tự như Ex1)
+Ví dụ về màn hình console:
+
+Enter the number of vertices : 6
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 0
+1
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 1
+2
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 2
+4
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 1
+4
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 0
+4
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 1
+3
+Enter an Edge from Node(0 to 6) to Node(0 to 5): 5
+3
+Enter an Edge from Node(0 to 6) to Node(0 to 5): -1
+-1
+
+Enter 1 for BFS
+Enter 2 for DFS
+Enter 3 for printing adjacency matrix
+Enter 4 to Exit : 3
+ 0  1  0  0  1  0
+ 1  0  1  1  1  0
+ 0  1  0  0  1  0
+ 0  1  0  0  0  1
+ 1  1  1  0  0  0
+ 0  0  0  1  0  0
+
+Enter 1 for BFS
+Enter 2 for DFS
+Enter 3 for printing adjacency matrix
+Enter 4 to Exit : 1
+Enter the Vertex fron which do you wanted to start : 5
+5       3       1       0       2       4
+Enter 1 for BFS
+Enter 2 for DFS
+Enter 3 for printing adjacency matrix
+Enter 4 to Exit : 2
+Enter the Vertex fron which do you wanted to start : 5
+5       3       1       0       4       2
+Enter 1 for BFS
+Enter 2 for DFS
+Enter 3 for printing adjacency matrix
+Enter 4 to Exit : 4
+Thank you for using the program, goodbye

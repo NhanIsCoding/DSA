@@ -1,0 +1,22 @@
+Làm hàm Delete cho cây Đỏ-Đen từ buổi học lý thuyết
+-Nếu node được xóa là Node đỏ -> không cần điều chỉnh
+-Nếu node đen được xóa -> cần điều chỉnh cân bằng cho cây
+Ví dụ:
+Input a value to find in Red-Black Tree: 9
+9 is in the Red-Black Tree!
+Do you want to delete 9?
+Input 1 if Yes,0 if No
+1
+9 is deleted!
+Do you want to continue searching some nodes?
+Input 1 if Yes,0 if no
+1
+Input a value to find in Red-Black Tree: 9
+9 is Not Found in Red Black-Tree!
+Do you want to insert 9 to the Tree?
+Input 1 if Yes,0 if No
+0
+Do you want to continue searching some nodes?
+Input 1 if Yes,0 if no
+0
+Thank you for using the program, goodbye

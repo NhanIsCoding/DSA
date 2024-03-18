@@ -1,0 +1,4 @@
+Bài toán Sixteen Queens
+cho một bảng cờ 16x16 cùng với 16 quân hậu 
+Hãy tìm vị trí để đặt các con hậu sao cho chúng không ăn phải nhau (cho '1' là quân hậu,'0' là các vị trí trống)
+(Ý tưởng từ chủ đề Search lí thuyết)

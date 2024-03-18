@@ -1,0 +1,2 @@
+-Tạo một Binary Tree, sau đó làm 3 thuật toán để duyệt qua cây (PostOrder,InOrder,PreOrder)
+-Kiểm tra xem cây này có phải là Binary Search Tree hay không

@@ -1,0 +1,12 @@
+Đếm số node và tính tổng các giá trị trong cây Đỏ-Đen
+Màn hình console:
+Tree:
+1 7 9 10 25 49
+There are 6 nodes
+Sum value of them is: 101
+
+After deleting node 10
+Tree:
+1 7 9 25 49
+There are 5 nodes
+Sum value of them is: 91

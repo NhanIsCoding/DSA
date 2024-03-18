@@ -1,0 +1,10 @@
+Nhập một dãy các số nguyên.
+Sắp xếp tăng dần cho các số là số nguyên tố và sắp xếp giảm dần cho các số không phải là số nguyên tố.
+Nhưng vị trí các phần tử là số nguyên số và không phải số nguyên tố là giữ nguyên
+Ví dụ
+10
+10 7 6 9 5 2 4 3 8 11
+
+Sau khi sắp xếp:
+10
+10 2 9 8 3 5 6 7 4 11

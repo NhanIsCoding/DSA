@@ -1,0 +1,37 @@
+Bạn được yêu cầu bạn một chương trình để quản lý nhân viên.
+Thông tin của một nhân viên bao gồm:
+-ID
+-Họ Tên
+-Ngày/Tháng/Năm sinh
+-Giới tính (Quy định 0: Nữ, 1:Nam)
+-Tình trạng hiện tại (Quy định 0: còn đang làm việc, 1: đã nghỉ việc)
+Hãy tạo một chương trình quản lí nhân sự cơ bản mà họ có thể:
+-Thêm nhân viên
+-Tìm và hỗ trợ cập nhật thông tin nhân viên
+-Hiển thị thông tin toàn bộ nhân viên
+-Hiển thị thông tin các nhân viên còn làm việc cho doanh nghiệp
+-Xóa thông tin nhân viên
+-Xóa thông tin các nhân viên đã nghỉ việc
+-Lưu thông tin các nhân viên lại vào file employee.txt (dòng đầu chứa số lượng nhân viên, các dòng tiếp theo là thông tin nhân viên)
+Nội dung file employee.txt cho trước:
+4
+1453
+Johny Dung
+21/11/1974
+1
+1
+2032
+Michele Nguyen
+7/9/1998
+1
+0
+1539
+Mike Wilson
+13/2/1979
+1
+0
+2143
+Nancy Kim
+23/5/2000
+0
+0

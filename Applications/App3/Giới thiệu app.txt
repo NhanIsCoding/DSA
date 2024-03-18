@@ -1,0 +1,9 @@
+Hãy tạo một trò chơi cờ Caro (Tic-Tac-Toe) đơn giản mà người dùng sẽ đấu với máy, có chức năng đăng nhập tài khoản và mật khẩu (không có dấu cách)
+Khi khởi động chương trình, sẽ có menu:
+-Đăng nhập tài khoản
+-Đăng ký tài khoản (nếu username đã tồn tại trên file data.txt thì sẽ không đăng ký được)
+-Quên mật khẩu (người dùng sẽ nhập tên tài khoản để có thể dò tìm mật khẩu trong file data.txt)
+-Thoát menu và dừng chương trình
+(Áp dụng bài học về hashing, tài khoản và mật khẩu sẽ được encrypt và lưu trữ trong file data.txt)
+
+Khi đăng nhập tài khoản thành công, người dùng sẽ có thể chơi trò chơi Caro

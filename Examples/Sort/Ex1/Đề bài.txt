@@ -1,0 +1,7 @@
+Cho mảng gồm 1000000 phần tử ngẫu nhiên, tìm 100 phần tử lớn nhất
+Ta có thể dùng một thuật toán sort có độ phức tạp O(nlogn) để sắp xếp các phần tử (ví dụ như dùng thuật toán Merge sort hay Quick sort),
+Ta sẽ so sánh thời gian tìm phần tử lớn nhất giữa 3 cách:
+-Merge sort rồi truy xuất 100 phần tử đầu
+-Quick sort rồi truy xuất 100 phần tử đầu
+-Tìm max bằng cách tìm kiếm tuần tự 100 lần
+(Ý tưởng từ câu 10 của bài tập sort)

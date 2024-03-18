@@ -1,0 +1,67 @@
+Hãy xây dựng một trò chơi dự đoán con vật
+Trong đó, máy tính sẽ dần học được những con vật mới khi không đoán được con vật mà người chơi đang nghĩ
+(Áp dụng cấu trúc dữ liệu cây nhị phân để xây dựng đáp án của người chơi, câu hỏi và dự đoán của máy tính)
+Ví dụ cho một ván chơi:
+WELCOME TO THE ANIMAL GUESSING GAME!
+Press Enter when you are ready to play
+Waiting...
+
+Think of an animal, we will try to guess it
+
+Were you thinking about tiger
+(y or n): n
+
+What animal it was?
+It was a: dog
+
+A question that can be used to distinguish that animal?
+Does it bark?
+
+What would be its answer to identify it as dog
+enter y for Yes and n for No: y
+
+Do you want to play again.. (y/n) : y
+Think of an animal, we will try to guess it
+
+Does it bark?
+Enter y for Yes and n for No: y
+
+Were you thinking about dog
+(y or n): y
+
+Hooray! We guessed it right...
+
+Do you want to play again.. (y/n) : y
+Think of an animal, we will try to guess it
+
+Does it bark?
+Enter y for Yes and n for No: n
+
+Were you thinking about tiger
+(y or n): n
+
+What animal it was?
+It was a: pigeon
+
+A question that can be used to distinguish that animal?
+Can it fly?
+
+What would be its answer to identify it as pigeon
+enter y for Yes and n for No: y
+
+Do you want to play again.. (y/n) : y
+Think of an animal, we will try to guess it
+
+Does it bark?
+Enter y for Yes and n for No: n
+
+Can it fly?
+Enter y for Yes and n for No: y
+
+Were you thinking about pigeon
+(y or n): y
+
+Hooray! We guessed it right...
+
+Do you want to play again.. (y/n) : n
+Thank you for playing the game, goodbye

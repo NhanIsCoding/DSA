@@ -1,0 +1,13 @@
+Cho một mảng các số nguyên phân biệt, được sắp xếp tăng dần và một số nguyên x
+Hãy tìm vị trí để có thể thêm x vào mảng này
+(Hãy viết một thuật toán với độ phức tạp O(logn))
+Input n: 5
+1
+4
+6
+7
+8
+Input x: 2
+Index to insert x is 1
+Array:
+1 2 4 6 7 8

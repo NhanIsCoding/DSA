@@ -1,0 +1,20 @@
+Ánh và Bình đang tìm hiểu về 2 thuật toán là tìm kiếm tuần tự và tìm kiếm nhị phân
+Bạn hãy cho một mảng các số nguyên sắp xếp tăng dần hoặc giảm dần với một số x để 2 bạn có thể so sánh số bước để tìm kiếm số x đó
+-Ánh sẽ đếm số bước Linear Search
+-Bình sẽ đếm số bước cho Binary Search
+Ví dụ:
+Input the number of elements: 7
+Input the elements:
+0
+2
+3
+6
+9
+20
+54
+Input x: 20
+Found x at index 5
+Anh needs 6 steps
+Found x at index 5
+Binh needs 2 steps
+Linear search needs more steps in this case

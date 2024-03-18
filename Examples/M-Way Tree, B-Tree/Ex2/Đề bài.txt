@@ -1,0 +1,10 @@
+Lập một B-Tree Order 6 (một node chứa nhiều nhất 6 giá trị), cùng với hàm insert các Node
+Một số đặc tính của B-Tree:
+"Property #1 - All leaf nodes must be at same level.
+Property #2 - All nodes except root must have at least [m/2]-1 keys and maximum of m-1 keys.
+Property #3 - All non leaf nodes except root (i.e. all internal nodes) must have at least m/2 children.
+Property #4 - If the root node is a non leaf node, then it must have atleast 2 children.
+Property #5 - A non leaf node with n-1 keys must have n number of children.
+Property #6 - All the key values in a node must be in Ascending Order."
+
+//Nguon tham khao: http://www.btechsmartclass.com/data_structures/b-trees.html
